@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:7c3aed&height=200&section=header&text=Manar%20Makram&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Threat%20Detection&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/manar-makram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manar-makram-a27b0425b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@manarmakramrizk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://github.com/0x90-M"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -58,6 +58,6 @@ I'm a **SOC Analyst (Tier 1)** based in Egypt, with hands-on experience in **sec
 
 <div align="center">
 
-📫 **Reach me:** [LinkedIn](https://linkedin.com/in/manar-makram) · [Email](mailto:manarmakramrizk@gmail.com) · [Medium](https://medium.com/@manarmakramrizk)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/manar-makram-a27b0425b/) · [Medium](https://medium.com/@manarmakramrizk)
 
 </div>
